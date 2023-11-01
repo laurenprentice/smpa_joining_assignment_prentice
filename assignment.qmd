@@ -158,7 +158,7 @@ precincts_with_zero_votes <- result_with_avg_votes %>%
 
 ```
 
-How many precincts are there, and which county has the most? *Put answer here*
+How many precincts are there, and which county has the most? 
 
 What else would you need to know about these precincts to know whether this might be worth a story? *Put answer here*
 
